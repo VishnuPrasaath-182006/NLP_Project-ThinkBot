@@ -1,4 +1,4 @@
-#ThinkBot - "Built to think with you."
+# ThinkBot - "Built to think with you."
 
 ThinkBot is an intelligent NLP-powered chatbot application designed to understand user queries and deliver meaningful, context-aware responses in real time. Built using Python and Streamlit, ThinkBot simulates human-like conversations by applying core Natural Language Processing techniques and machine learning models.
 
